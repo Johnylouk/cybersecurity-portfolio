@@ -1,4 +1,4 @@
-# OSINT Challenge — "BMW
+# OSINT Challenge — "BMW"
 
 ## 🧭 Executive Summary
 Find the /24 BMW-NET in Munich. The flag is in CIDR format.
