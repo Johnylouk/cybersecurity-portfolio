@@ -10,5 +10,5 @@ Running nmap list scan which asks the DNS and simply lists the targets to scan o
 Passive DNS listing techniques are suitable when instructed not to connect to hosts.
 
 ## 🧠 Tags
-'#DNS' '#NetworkMapping' '#Recon' '#Enumeration'
+'#DNS' '#NetworkMapping' '#Recon' #Enumeration
 
