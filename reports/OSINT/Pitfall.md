@@ -1,4 +1,4 @@
-# OSINT Challenge — "Cherchez la Femme"
+# OSINT Challenge — "The Pitfall"
 
 ## 🧭 Executive Summary
 We captured one of them but we need a good answer to get the second one. The answer is the flag.
