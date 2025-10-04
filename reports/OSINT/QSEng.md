@@ -1,4 +1,4 @@
-# OSINT Challenge — "Cherchez la Femme"
+# OSINT Challenge — "QSEng Company"
 
 ## 🧭 Executive Summary
 There’s this software developer company the QSEng in Oslo. Find their Github password.
