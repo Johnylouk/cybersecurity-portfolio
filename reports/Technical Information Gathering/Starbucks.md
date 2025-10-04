@@ -1,4 +1,4 @@
-# OSINT Challenge — "Starbucks"
+# OSINT Challenge — "Starbucks Domain"
 
 ## 🧭 Executive Summary
 I got a free "Venti Pumpkin Spice Latte" for checking their subdomains. I found one interesting but the responsible person only speaks French. Which subdomain I'm talking about?
