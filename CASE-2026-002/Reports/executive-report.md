@@ -136,21 +136,21 @@ A PowerShell script was discovered that scans local IP addresses and saves the o
 
 Timestamp		Event
 
-2024-02-03 07:33:20 UCT	SANS SEC401.rar Received via Telegram
+2024-02-03 07:33:20 UTC	SANS SEC401.rar Received via Telegram
 
-2024-02-03 07:34:23 UCT	SANS SEC401.rar Accessed
+2024-02-03 07:34:23 UTC	SANS SEC401.rar Accessed
 
-2024-02-03 07:38:01 UCT	Defense Evasion	
+2024-02-03 07:38:01 UTC	Defense Evasion	
 
-2024-02-03 07:39:31 UCT	run.ps1 Executed
+2024-02-03 07:39:31 UTC	run.ps1 Executed
 
-2024-02-03 21:10:35 UCT	BL4356.txt Last Created
+2024-02-03 21:10:35 UTC	BL4356.txt Last Created
 
-2024-02-03 21:11:29 UCT	run.bat Last Created
+2024-02-03 21:11:29 UTC	run.bat Last Created
 
-2024-02-03 21:11:29 UCT	run.ps1 Last Created
+2024-02-03 21:11:29 UTC	run.ps1 Last Created
 
-2024-02-04 16:02:38 UCT	BL4356.txt Last Accessed
+2024-02-04 16:02:38 UTC	BL4356.txt Last Accessed
 
 
 
