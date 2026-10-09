@@ -226,7 +226,7 @@ High, subject to the limitations described in Section 10.
 
 
 
-A BAT file was subsequently identified which acts a second stage mechanism to create and run the script that performs the data exfiltration as well as set up persistence.
+A BAT file was subsequently identified which acts as a second stage mechanism to create and run the script that performs the data exfiltration as well as set up persistence.
 
 
 
@@ -304,7 +304,7 @@ A PowerShell script was discovered that scans local IP addresses and saves the o
 
 3\. It logs them into BL4356.txt.
 
-4\. It the exfiltrates the data to IP address 192.168.1.5:8000.
+4\. It then is designed to exfiltrate the data to IP address 192.168.1.5:8000.
 
 
 
@@ -312,7 +312,7 @@ A PowerShell script was discovered that scans local IP addresses and saves the o
 
 
 
-The combined observations support the assessment that the file with the list was created successfully.
+The combined observations support the assessment that the file with the list was created successfully but without network data we cannot confirm anything was transmitted.
 
 
 
