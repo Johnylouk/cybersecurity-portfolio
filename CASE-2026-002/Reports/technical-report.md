@@ -206,7 +206,7 @@ Evidence indicates the presence of an archive with an embedded malicious file.
 
 
 
-The combined observations support the assessment that CVE-2023-38831 was exploited to execute the malicious file on opening the archive.
+The combined observations support the assessment that CVE-2023-38831 was exploited on WinRAR versuib 6.22 to execute the malicious file on opening the archive.
 
 
 
