@@ -358,21 +358,21 @@ Complete IOC information is maintained separately in:
 
 Timestamp		Event					Source		Evidence	Confidence
 
-2024-02-03 07:33:20 UCT	SANS SEC401.rar Received via Telegram	SANS SEC401.rar	Metadata	High
+2024-02-03 07:33:20 UTC	SANS SEC401.rar Received via Telegram	SANS SEC401.rar	Metadata	High
 
-2024-02-03 07:34:23 UCT	SANS SEC401.rar Accessed		SANS SEC401.rar	Metadata	High
+2024-02-03 07:34:23 UTC	SANS SEC401.rar Accessed		SANS SEC401.rar	Metadata	High
 
-2024-02-03 07:38:01 UCT	Defense Evasion	Event Viewer (1102)	Metadata	High
+2024-02-03 07:38:01 UTC	Defense Evasion	Event Viewer (1102)	Metadata	High
 
-2024-02-03 07:39:31 UCT	run.ps1 Executed			Event Viewer	Metadata	High
+2024-02-03 07:39:31 UTC	run.ps1 Executed			Event Viewer	Metadata	High
 
-2024-02-03 21:10:35 UCT	BL4356.txt Last Created			BL4356.txt	Metadata	High
+2024-02-03 21:10:35 UTC	BL4356.txt Last Created			BL4356.txt	Metadata	High
 
-2024-02-03 21:11:29 UCT	run.bat Last Created				run.bat		Metadata	High
+2024-02-03 21:11:29 UTC	run.bat Last Created				run.bat		Metadata	High
 
-2024-02-03 21:11:29 UCT	run.ps1 Last Created				run.ps1		Metadata	High
+2024-02-03 21:11:29 UTC	run.ps1 Last Created				run.ps1		Metadata	High
 
-2024-02-04 16:02:38 UCT	BL4356.txt Last Accessed			BL4356.txt	Metadata	High
+2024-02-04 16:02:38 UTC	BL4356.txt Last Accessed			BL4356.txt	Metadata	High
 
 
 
