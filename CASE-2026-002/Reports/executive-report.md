@@ -110,7 +110,7 @@ A BAT file was subsequently identified which acts a second stage mechanism to cr
 
 
 
-A log of the execution of another script which deleted logs was discovered, as well as evidence of disguise of timestamps in the form of timestomping.
+A log of the execution of another script (EventLogs.ps1) which deleted logs was discovered, as well as evidence of disguise of timestamps in the form of timestomping.
 
 
 
