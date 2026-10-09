@@ -1,0 +1,8 @@
+Timestamp,Event,Source,Evidence,Confidence
+2024-02-03 08:33:20 CET,SANS SEC401.rar Received via Telegram,SANS SEC401.rar,Metadata,High
+2024-02-03 08:34:23 CET,SANS SEC401.rar Accessed,SANS SEC401.rar,Metadata,High
+2024-02-03 08:39:31 CET,run.ps1 Executed,Event Viewer,Metadata,High
+2024-02-03 22:10:35 CET,BL4356.txt Created,BL4356.txt,Metadata,High
+2024-02-03 22:11:29 CET,run.bat Created,run.bat,Metadata,High
+2024-02-03 22:11:29 CET,run.ps1 Created,run.ps1,Metadata,High
+2024-02-04 17:02:38 CET,BL4356.txt Accessed,BL4356.txt,Metadata,High
